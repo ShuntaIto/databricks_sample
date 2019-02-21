@@ -13,7 +13,7 @@
   - Min workers: 2
   - Max workers: 8
   
-  need to install xgboost and spark_sklearn library
+  You need to install xgboost and spark_sklearn libraries.
   
  #### PyTorch sample
   - Runtime:  5.2ML Beta(**GPU**)
@@ -31,6 +31,6 @@
    - Instance size: Standard_D32s_v3
   
  #### PyTorch sample
-  - Worker type: Standard_NC6s_v3(beta)
+  - Instance type: Standard_NC6s_v3(beta)
 
  
