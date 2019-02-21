@@ -4,7 +4,7 @@
  
  ## Environment
  ### Azure Databricks
- - XGBoost, scikit-learn, DataFrame sample
+ #### XGBoost, scikit-learn, DataFrame sample
   - Runtime:  5.2ML Beta
   - Python: 3
   - Auto scaling: Enable
@@ -15,7 +15,7 @@
   
   need to install xgboost and spark_sklearn library
   
- - PyTorch sample
+ #### PyTorch sample
   - Runtime:  5.2ML Beta(**GPU**)
   - Python: 3
   - Auto scaling: **Disable**
@@ -27,10 +27,10 @@
  
  'Data Science Virtual Machine for Linux (Ubuntu)' is easy to use.
  
-  - XGBoost, scikit-learn, DataFrame sample
+ #### XGBoost, scikit-learn, DataFrame sample
    - Instance size: Standard_D32s_v3
   
- - PyTorch sample
+ #### PyTorch sample
   - Worker type: Standard_NC6s_v3(beta)
 
  
